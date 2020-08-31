@@ -12,9 +12,7 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e29e858d-f0eb-4bb0-860b-574209aa5f8f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="e29e858d-f0eb-4bb0-860b-574209aa5f8f" name="Default Changelist" comment="Solucion .gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,12 +75,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598879140485</updated>
-      <workItem from="1598879141539" duration="2822000" />
+      <workItem from="1598879141539" duration="3149000" />
     </task>
+    <task id="LOCAL-00001" summary="Solucion .gitignore">
+      <created>1598882234197</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598882234197</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Solucion .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solucion .gitignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="418" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598879534419">
@@ -105,5 +126,9 @@
       <screen x="0" y="27" width="1920" height="984" />
     </state>
     <state width="1874" height="253" key="GridCell.Tab.0.right/0.27.1920.984/1920.0.1920.1080@0.27.1920.984" timestamp="1598881534668" />
+    <state x="555" y="255" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598882264160">
+      <screen x="0" y="27" width="1920" height="984" />
+    </state>
+    <state x="555" y="255" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.984/1920.0.1920.1080@0.27.1920.984" timestamp="1598882264160" />
   </component>
 </project>
